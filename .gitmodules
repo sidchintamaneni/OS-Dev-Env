@@ -25,3 +25,6 @@
 [submodule "lib-dev/libbpf-rs"]
 	path = lib-dev/libbpf-rs
 	url = git@github.com:sidchintamaneni/libbpf-rs.git
+[submodule "compiler/rust"]
+	path = compiler/rust
+	url = git@github.com:sidchintamaneni/rust.git
